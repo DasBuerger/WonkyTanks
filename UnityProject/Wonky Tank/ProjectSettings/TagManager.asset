@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Game
+  - Tanks
+  - Map
+  - Network_Manager
+  - Enemies
+  - Projectiles
   layers:
   - Default
   - TransparentFX
